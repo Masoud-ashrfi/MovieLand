@@ -24,7 +24,7 @@ const API_URL = "http://www.omdbapi.com?apikey=your_api_key";
 - Add pagination for better navigation through search results.
 - Include filters for genre, release year, and type.
 - Implement a favorites feature to save preferred movies.
-- 
+  
 ## 👨‍💻 Author
 # Masoud Ashrafi
 LinkedIn: https://www.linkedin.com/in/masoud-ashrafi/
